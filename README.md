@@ -23,5 +23,13 @@ for all x and y in R.
 If R and S are rings, then a ring homomorphism R → S is the same as a rng homomorphism R → S that maps 1 to 1.
 All passowrds are displayed in plaintext with IV to make it convinient as well as secure.
 Simply install the Armor module by pip install Armor if you are facing dependency issues
+Code also requires datetime module
+
+Installation:
+pip install -r REQUIREMENTS.txt
+python3 Swayamprabha.py
+
+Where are passwords saved?
+All generated passwords are dated and stored in the same directory as the .py file.
 
 All the code is tested and simulated before production and its cryptographically strong.
