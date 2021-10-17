@@ -5,10 +5,11 @@ Keeping in mind that most modern applications require a secure password with Upp
 we often ease upon the convinience and thus loose the crux of having a password.
 
 Purpose is to make it simple for normal users to generate secure passwords which are difficult to bruteforce or guess.
-This takes a argument as a IV, it will prompt you for a website or username to make it more convinient unline existing password generator.
+This takes a argument as a IV, it will prompt you for a website or username to make it more convinient online.
 Allowing the user to customize this experience without any rigid arguments.
 
-The module:
+The working Cryptography:
+The entirety of the code is obfuscated.
 Formally, a rng is a set R with two binary operations (+, ·) called addition and multiplication such that
 
 (R, +) is an abelian group,
